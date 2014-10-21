@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+git init marks the current folder as a git repository and stores meta information 
+about the repository(such history,branchs etc) in the .git hidden folder.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Temp area where we move the files that need to checked into the repo. from the working directory.
+
